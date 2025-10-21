@@ -1,0 +1,8 @@
+g++ .\exercise1_macro_deterministic.cpp -o ex1_macro_det
+./ex1_macro_det
+
+g++ .\exercise1_macro_random_simple.cpp -o ex1_macro_rand_simple
+./ex1_macro_rand_simple
+
+g++ exercise1_ca_game_of_life.cpp -o ex1_life
+./ex1_life
